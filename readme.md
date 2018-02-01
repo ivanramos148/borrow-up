@@ -1,40 +1,49 @@
-#Borrow Up
+# Borrow Up
 
-This is an HTML webpage application for a website that allows users to trade/borrow items.
+Our website allows our user to create an account. In addition to this they are allowed to view other accounts and other item listings.
+Item lists can be sorted by price or titles. User is allowed to upload an image with their item list and upload dynamically.
+Once the item list is live, a potential buyer is able to view the item on our website and contact the seller.
 
-## Getting Started
 
-To view the webpage and use the application clone to drive to from the github link https://github.com/FrankNgo/borrowup2.  After cloning the drive open index.html in order to run the web application.
 
 ### Prerequisites
+Have GitHub desktop installed or go to GitHub.com
+Locate GitHub repository and Clone
+Have Atom and internet web browser
 
-To install and use you will need a working internet connection to download it.  After that it is saved locally and you will need a web browser to open it.
 
 ### Installing
+Clone from github.com/borrowup2
+Open folder
+Open index.html
 
-```
-1. Clone drive from https://github.com/FrankNgo/borrowup2
-2. Open index.html in any web browser
-```
+
 ## Specifications
 
-  * User is able to view listed items
-  * user is able to upload item listing to index
-  * Categories drop down to any items you're interested in  
-  * User can Login and Create account
+  * User is able to view listed items.
+  * User can add description, title, and price to their item list.
+  * User can create accounts.
+  * User can login and view other accounts.
+  * User can sort item lists (Price, Title).
+  * User can upload a picture to their item list.
+  * User can upload item lists dynamically.
+  * User can decide which account is allowed to borrow their item.
+  * User can view who is interested in their item.
+
+
 
 ## Running the tests
+Create a test product and list it with a title and a brief description. Use an image along with a price to have it display.
 
-No Tests to run
 
 ### Bugs and Tests
 
-No current known bugs.
-Uploading was a bit wonky
+Uploading images can be a lot cleaner
+
 
 ## Deployment
 
- This web application error handles for non entered in numbers by only allowing the input of numbers in the form input.
+HTML website that lets users post items dynamically.
 
 ## Built With
 
@@ -46,7 +55,11 @@ Uploading was a bit wonky
 
 ## Authors
 
-*  Alex Ficklin, Frank Ngo, Ivan Ramos, Nicko Dela Cruz.
+*  Nicolas Dela Cruz
+*  github.com/NickoDelaCruz
+*  Alexander Ficklin
+*  
+
 
 ## License
 
