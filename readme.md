@@ -1,67 +1,53 @@
+#Borrow Up
 
-_{SPECS Input information about BorrowUp
+This is an HTML webpage application for a website that allows users to trade/borrow items.
 
-List items and upload photo
+## Getting Started
 
-Items dynamically upload
+To view the webpage and use the application clone to drive to from the github link https://github.com/FrankNgo/borrowup2.  After cloning the drive open index.html in order to run the web application.
 
-Items sort by most recent upload
+### Prerequisites
 
-Create AboutMe section
+To install and use you will need a working internet connection to download it.  After that it is saved locally and you will need a web browser to open it.
 
-Create Contact Us section
+### Installing
 
-Have header complete with title and logo
+```
+1. Clone drive from https://github.com/FrankNgo/borrowup2
+2. Open index.html in any web browser
+```
+## Specifications
 
-Have separate categories for each item
+  * User is able to view listed items
+  * user is able to upload item listing to index
+  * Categories drop down to any items you're interested in  
+  * User can Login and Create account
 
-Give users a way to create an account and log information
+## Running the tests
 
-Create back end Javascript code to make the website fully functional
+No Tests to run
 
+### Bugs and Tests
 
+No current known bugs.
+Uploading was a bit wonky
 
+## Deployment
 
+ This web application error handles for non entered in numbers by only allowing the input of numbers in the form input.
 
+## Built With
 
+* HTML - The web framework used
+* Javascript - The programming language used
+* CSS - Style Library
+* [bootstrap](https://getbootstrap.com/docs/3.3/) - Style Library
+* [jquery](https://jquery.com/download/) - Javascript Library
 
+## Authors
 
-# BorrowUp
+*  Alex Ficklin, Frank Ngo, Ivan Ramos, Nicko Dela Cruz.
 
-#### Lets users upload item listings to borrow. {2-1-17}
+## License
 
-#### By {Frank Ngo, Ivan Ramos, Nicko Dela Cruz, Alex Ficklin}
-
-Users are able to create an account in order to upload a item listing to sell/borrow.
-They are required to fill out a form for item title, price, description and a picture of the item.
-
-## Setup/Installation Requirements
-
-* _Open GitHub_
-* _Clone Project from https://github.com/FrankNgo/borrowup2_
-* _Open up project_
-* _Place in folder_
-* _Open index.html_
-
-
-
-## Known Bugs
-
-Uploading images is a bit wonky.
-
-## Support and contact details
-
-Contact: Ivanramos148@hotmail.com
-
-## Technologies Used
-
-HTML
-Javascript
-CSS
-
-
-### License
-
-OS
-
-Copyright (c) 2016 Ramos Squad 2018
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
